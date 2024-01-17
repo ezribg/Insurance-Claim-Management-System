@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3EFC558-8E21-4E38-8C94-54CCB27A6FD5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ICMS</RootNamespace>
+    <AssemblyName>ICMS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminPrivileges.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPrivileges.Designer.cs">
+      <DependentUpon>AdminPrivileges.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientSendMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientSendMessage.Designer.cs">
+      <DependentUpon>ClientSendMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientViewClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientViewClaims.Designer.cs">
+      <DependentUpon>ClientViewClaims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientMakeClaim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientMakeClaim.Designer.cs">
+      <DependentUpon>ClientMakeClaim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsDBH_File.cs" />
+    <Compile Include="clsDBH_Message.cs" />
+    <Compile Include="clsFile.cs" />
+    <Compile Include="clsMessage.cs" />
+    <Compile Include="clsClaim.cs" />
+    <Compile Include="clsClaimUpdate.cs" />
+    <Compile Include="ClientLandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientLandingPage.Designer.cs">
+      <DependentUpon>ClientLandingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsDBH_User.cs" />
+    <Compile Include="clsDBH_Claim.cs" />
+    <Compile Include="clsInheritanceDatabase.cs" />
+    <Compile Include="clsUser.cs" />
+    <Compile Include="CMAssignClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMAssignClaims.Designer.cs">
+      <DependentUpon>CMAssignClaims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMLandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMLandingPage.Designer.cs">
+      <DependentUpon>CMLandingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CMProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CMProfile.Designer.cs">
+      <DependentUpon>CMProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FMLanding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMLanding.Designer.cs">
+      <DependentUpon>FMLanding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeDirectory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeDirectory.Designer.cs">
+      <DependentUpon>EmployeeDirectory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FMassignedClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMassignedClaims.Designer.cs">
+      <DependentUpon>FMassignedClaims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserProfile.Designer.cs">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminLandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLandingPage.Designer.cs">
+      <DependentUpon>AdminLandingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CreateUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CreateUserForm.Designer.cs">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clsDatabase.cs" />
+    <Compile Include="SearchUFCMFM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchUFCMFM.Designer.cs">
+      <DependentUpon>SearchUFCMFM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchUserForm.Designer.cs">
+      <DependentUpon>SearchUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewClaims.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewClaims.Designer.cs">
+      <DependentUpon>ViewClaims.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClientMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClientMessages.Designer.cs">
+      <DependentUpon>ClientMessages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminPrivileges.resx">
+      <DependentUpon>AdminPrivileges.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientLandingPage.resx">
+      <DependentUpon>ClientLandingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientSendMessage.resx">
+      <DependentUpon>ClientSendMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientViewClaims.resx">
+      <DependentUpon>ClientViewClaims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientMakeClaim.resx">
+      <DependentUpon>ClientMakeClaim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMAssignClaims.resx">
+      <DependentUpon>CMAssignClaims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeDirectory.resx">
+      <DependentUpon>EmployeeDirectory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMassignedClaims.resx">
+      <DependentUpon>FMassignedClaims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserProfile.resx">
+      <DependentUpon>UserProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMLandingPage.resx">
+      <DependentUpon>CMLandingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CMProfile.resx">
+      <DependentUpon>CMProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CreateUserForm.resx">
+      <DependentUpon>CreateUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMLanding.resx">
+      <DependentUpon>FMLanding.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminLandingPage.resx">
+      <DependentUpon>AdminLandingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchUFCMFM.resx">
+      <DependentUpon>SearchUFCMFM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchUserForm.resx">
+      <DependentUpon>SearchUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ViewClaims.resx">
+      <DependentUpon>ViewClaims.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClientMessages.resx">
+      <DependentUpon>ClientMessages.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Attachments\CodeMap1.dgml" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Attachments\IncuranceClaimExample.pdf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gorilla.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gorilla200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Attachments\crash.jpg" />
+    <Content Include="Attachments\ERD_Better_Quality.bmp" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

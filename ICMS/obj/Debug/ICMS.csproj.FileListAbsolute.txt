@@ -1,0 +1,217 @@
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\bin\Debug\ICMS.exe.config
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\bin\Debug\ICMS.exe
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\bin\Debug\ICMS.pdb
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.CMCProfiles.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.WelcomeForm.resources
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.exe
+C:\Users\audre\Desktop\Software Engineering\ICMS\ICMS\obj\Debug\ICMS.pdb
+C:\New folder\ICMS\bin\Debug\ICMS.exe.config
+C:\New folder\ICMS\bin\Debug\ICMS.exe
+C:\New folder\ICMS\bin\Debug\ICMS.pdb
+C:\New folder\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+C:\New folder\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\New folder\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\New folder\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\New folder\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\New folder\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\New folder\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\New folder\ICMS\obj\Debug\ICMS.CMCProfiles.resources
+C:\New folder\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\New folder\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\New folder\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\New folder\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\New folder\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\New folder\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\New folder\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\New folder\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\New folder\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\New folder\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\New folder\ICMS\obj\Debug\ICMS.WelcomeForm.resources
+C:\New folder\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\New folder\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\New folder\ICMS\obj\Debug\ICMS.exe
+C:\New folder\ICMS\obj\Debug\ICMS.pdb
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\bin\Debug\ICMS.exe.config
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\bin\Debug\ICMS.exe
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\bin\Debug\ICMS.pdb
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.UserProfile.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.CMCProfiles.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.CMProfile.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.FMLanding.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.LoginForm.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.ViewClaims.resources
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.exe
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.pdb
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\bin\Debug\ICMS.exe.config
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\bin\Debug\ICMS.exe
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\bin\Debug\ICMS.pdb
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientMessages.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.exe
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.pdb
+C:\Users\theco\Desktop\SE361\ICMS\bin\Debug\ICMS.exe.config
+C:\Users\theco\Desktop\SE361\ICMS\bin\Debug\ICMS.exe
+C:\Users\theco\Desktop\SE361\ICMS\bin\Debug\ICMS.pdb
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.csprojAssemblyReference.cache
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.CMCProfiles.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientMessages.resources
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.exe
+C:\Users\theco\Desktop\SE361\ICMS\obj\Debug\ICMS.pdb
+\\Mac\Home\Desktop\flight repo\cloned\ICMS\obj\Debug\ICMS.ClientMessages.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\bin\Debug\ICMS.exe.config
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\bin\Debug\ICMS.exe
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\bin\Debug\ICMS.pdb
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ClientMessages.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.exe
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.pdb
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.ClientSendMessage.resources
+C:\Users\audre\Desktop\Software Engineering\New ICMS\ICMS\obj\Debug\ICMS.FMassignedClaims.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\bin\Debug\ICMS.exe.config
+\\Mac\Home\Desktop\3rdCopy\ICMS\bin\Debug\ICMS.exe
+\\Mac\Home\Desktop\3rdCopy\ICMS\bin\Debug\ICMS.pdb
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ClientSendMessage.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.FMassignedClaims.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.UserProfile.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.CMProfile.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.FMLanding.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.LoginForm.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ViewClaims.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.ClientMessages.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.exe
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.pdb
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\bin\Debug\ICMS.exe.config
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\bin\Debug\ICMS.exe
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\bin\Debug\ICMS.pdb
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.csproj.AssemblyReference.cache
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.AdminPrivileges.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ClientLandingPage.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ClientSendMessage.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ClientViewClaims.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ClientMakeClaim.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.EmployeeDirectory.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.FMassignedClaims.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.UserProfile.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.CMCProfiles.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.CMLandingPage.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.CMProfile.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.CreateUserForm.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.FMLanding.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.AdminLandingPage.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.SearchUFCMFM.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.SearchUserForm.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.LoginForm.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.Properties.Resources.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ViewClaims.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.ClientMessages.resources
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.csproj.GenerateResource.cache
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.csproj.CoreCompileInputs.cache
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.exe
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.pdb
+C:\Users\ericn\OneDrive\Documents\SE361\project\project2\ICMS\obj\Debug\ICMS.CMAssignClaims.resources
+\\Mac\Home\Desktop\3rdCopy\ICMS\obj\Debug\ICMS.CMAssignClaims.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.ClientSendMessage.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.CMAssignClaims.resources
+C:\Users\theco\OneDrive\Desktop\SE361\ICMS\obj\Debug\ICMS.FMassignedClaims.resources

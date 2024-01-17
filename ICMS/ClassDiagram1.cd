@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ICMS.AdminLandingPage" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAgCAAABAEAACAgACCAAACIAAgAAAABABAgAI=</HashCode>
+      <FileName>AdminLandingPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.AdminPrivileges" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAACAEABAGAACAAAACJBgAAAYABEAAAABAAgA=</HashCode>
+      <FileName>AdminPrivileges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ClientLandingPage" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAECAAIBAEAAKAgAICAAACAAAAAAAABABAAAA=</HashCode>
+      <FileName>ClientLandingPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ClientMakeClaim" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAACIAIECAQEBAAAACABIACSAEAAQEgAIAQCEBAACA=</HashCode>
+      <FileName>ClientMakeClaim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ClientMessages" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAiAgAAMACAABBAAAACAAIAGIAAAAABAAIABAABIAAA=</HashCode>
+      <FileName>ClientMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ClientSendMessage" Collapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAAACAAABAEABCAAAQGEIAIAAAAAEADAABAAAA=</HashCode>
+      <FileName>ClientSendMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ClientViewClaims" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgAEAAAECAAAAAAAgCAAAACAABCgAAAAIBCQEAAAAA=</HashCode>
+      <FileName>ClientViewClaims.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsClaim" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQgEEAASAAoEAAEQAEAAACAAAAQAAAAQQAAQAAAAJA=</HashCode>
+      <FileName>clsClaim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsClaimUpdate" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAEAAAAAAAAAAAQAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>clsClaimUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsDatabase" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsDBH_Claim" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAIAAAAAAAQQAAAFAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>clsDBH_Claim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsDBH_File" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsDBH_File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsDBH_Message" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsDBH_Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsDBH_User" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAEAAACAEAAAAAAAAABAAAAAAACEAQAQAAAAA=</HashCode>
+      <FileName>clsDBH_User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsFile" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAACAAAAAAEAAEAAAAAAAAIABAAAEAAAAAAAJA=</HashCode>
+      <FileName>clsFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsInheritanceDatabase" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsInheritanceDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsMessage" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAACgAggAAEAYEAAACAAQAAAAAAAAgAAAAIABA=</HashCode>
+      <FileName>clsMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.clsUser" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACIEBAGSCAACAMAQAAAAIAgAAIAAADBUQQJQAAAhg=</HashCode>
+      <FileName>clsUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.CMCProfiles" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAwAgAQSIAJACIAgAAABAAAAAAABAAAA=</HashCode>
+      <FileName>CMCProfiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.CMLandingPage" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEiAAABAEAACAgAACIAACIAAAgAAABABAgAo=</HashCode>
+      <FileName>CMLandingPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.CMProfile" Collapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAABCAAAAAQAACBIIgCAABAAIRAAAAAAAAAAAA=</HashCode>
+      <FileName>CMProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.CreateUserForm" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAABAAkCAEABAAAACAAAACAAAAAEAAAAAAAAAAAAE=</HashCode>
+      <FileName>CreateUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.DataSet1" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAAAwgQgALABAAEQAAIAAgCQBgAAAAAAgEABBA=</HashCode>
+      <FileName>DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.EmployeeDirectory" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAgAAAACAAAAAADACAAAQCICAAIAogBAABAAADEAI=</HashCode>
+      <FileName>EmployeeDirectory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.FMassignedClaims" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQgAAAAABiAAAAIYAgLAAQACIABAIAAAEABDgAAAAEA=</HashCode>
+      <FileName>FMassignedClaims.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.FMLanding" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEiAAABAEAACAgAACAAACKAAAAAACBABAwAg=</HashCode>
+      <FileName>FMLanding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.LoginForm" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAEAAECAAABAAAAGAAMASACAAKAACABAAAABAAAA=</HashCode>
+      <FileName>LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.Program" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.SearchUFCMFM" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAgAAAACAAAAAADACAAAQCICAAIAogAACBAAACFAI=</HashCode>
+      <FileName>SearchUFCMFM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.SearchUserForm" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAgAAAACAAAAAADACAAAQCICAAIAogAACBAAACFAI=</HashCode>
+      <FileName>SearchUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.UserProfile" Collapsed="true">
+    <Position X="9.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAABCACABAQAACDIIgCBgBAAIBgAAAAQAAAAAA=</HashCode>
+      <FileName>UserProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.ViewClaims" Collapsed="true">
+    <Position X="13.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQgAAAAABiAAAAMcAgLAAQACIABAoAAAAABDxAAABEA=</HashCode>
+      <FileName>ViewClaims.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.DataSet1TableAdapters.usersTableAdapter" Collapsed="true">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAARBA=</HashCode>
+      <FileName>DataSet1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.DataSet1TableAdapters.user_profileTableAdapter" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.DataSet1TableAdapters.DataTable1TableAdapter" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAGAAEAAAAAcAIAAAAAAAACAICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.DataSet1TableAdapters.TableAdapterManager" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAABABAFBCAAAMAAkAAACgAAAAAQAAAIABAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.Properties.Resources" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAQABEAAAAQAAAABAAAAAAAABIIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICMS.Properties.Settings" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ICMS.SearchBy" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAAAAAAAgAIAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsDBH_User.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
